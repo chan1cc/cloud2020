@@ -11,5 +11,7 @@ public class ConsumerOrder80 {
         SpringApplication.run(ConsumerOrder80.class, args);
         System.out.println("启动成功");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
+
 }
